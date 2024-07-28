@@ -1,0 +1,5 @@
+package com.employeeform.employeeform
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
